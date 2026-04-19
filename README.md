@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Cognitive Routing & RAG System
 
 ## Overview
@@ -39,3 +40,7 @@ We enforce strict system rules to:
 ---
 
 ## How to Run
+=======
+# ai-cognitive-routing
+This project implements vector routing, LangGraph-style orchestration, and RAG-based defense system with prompt injection protection.
+>>>>>>> b5275d31e25a7b92b8c4fb185c5e80f410bc293a
