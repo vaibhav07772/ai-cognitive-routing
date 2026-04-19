@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 # AI Cognitive Routing & RAG System
 
+# AI Cognitive Routing & RAG System
+
 ## Overview
 This project implements a cognitive AI system with:
+
 - Vector-based persona matching
-- Content generation pipeline
+- Content generation pipeline (LangGraph-style)
 - RAG-based defense against prompt injection
 
 ---
@@ -36,11 +39,12 @@ We enforce strict system rules to:
 - Python
 - Sentence Transformers
 - NumPy
+- LangGraph (concept)
 
 ---
 
 ## How to Run
-=======
-# ai-cognitive-routing
-This project implements vector routing, LangGraph-style orchestration, and RAG-based defense system with prompt injection protection.
->>>>>>> b5275d31e25a7b92b8c4fb185c5e80f410bc293a
+
+```bash
+pip install -r requirements.txt
+python main.py
