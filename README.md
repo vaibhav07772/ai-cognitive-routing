@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AI Cognitive Routing & RAG System
-
 # AI Cognitive Routing & RAG System
 
 ## Overview
